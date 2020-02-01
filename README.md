@@ -1,4 +1,4 @@
-![SCREENSHOT](/images/webpagescreenshot.png)
+![SCREENSHOT](images/webpagescreenshot.PNG)
 # A Simple Tribute Page
 > A Tribute page to one of my favorite humans that ever lived.
 
